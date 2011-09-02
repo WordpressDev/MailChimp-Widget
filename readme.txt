@@ -1,10 +1,10 @@
 === MailChimp Widget ===
-Contributors: jameslafferty
+Contributors: norcross
 Tags: newsletter, MailChimp, mailing list, widget, email marketing
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JSL4JTA4KMZLG
+Donate link: http://andrewnorcross.com/donate
 Requires at least: 3.0.1
-Tested up to: 3.0.1
-Stable tag: trunk
+Tested up to: 3.2.1
+Stable tag: 1.0
 
 Adds a widget that allows your users to sign up for your MailChimp mailing list.
 
@@ -12,7 +12,7 @@ Adds a widget that allows your users to sign up for your MailChimp mailing list.
 
 This plugin provides an easy, lightweight way to let your users sign up for your MailChimp list. You can use it to sign up users for 
 several different lists by creating multiple instances of the widget. Once a user has signed up, a cookie is stored on their machine to
-prevent the sign up form for that particular list from displaying. Sign ups for other lists will display.
+prevent the sign up form for that particular list from displaying. Sign ups for other lists will display. Forked from <a href="http://wordpress.org/extend/plugins/mailchimp-widget/">MailChimp Widget</a> by jameslafferty
 
 The MailChimp Widget:
 
